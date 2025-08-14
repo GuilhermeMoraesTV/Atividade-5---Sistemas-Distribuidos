@@ -1,6 +1,3 @@
-Claro, aqui está o `README` completo em formato Markdown.
-
------
 
 # Sistema Distribuído de Monitoramento de Recursos com Tolerância a Falhas
 
@@ -99,4 +96,5 @@ Execute o script `EXECUTAR_CLIENTE_AUTENTICADO.bat`. O cliente tentará autentic
 ```bash
 EXECUTAR_CLIENTE_AUTENTICADO.bat
 ```
+
 
